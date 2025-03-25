@@ -10,7 +10,7 @@
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ajay6601&theme=react-dark)
 
 ### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay6601&layout=compact&theme=radical)
 
 ### 🎯 Contributions
 - **Total Commits**: ![Commits](https://badgen.net/github/commits/Ajay6601/)
