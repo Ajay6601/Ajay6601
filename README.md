@@ -4,8 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay6601&show_icons=true&count_private=true&theme=radical)
 
 ### 🔥 Streak Stats
-![GitHub Streak](![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Ajay6601)
-
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Ajay6601)
 
 
 ### 📊 Contribution Graph
