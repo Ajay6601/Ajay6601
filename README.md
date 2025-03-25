@@ -13,8 +13,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay6601&layout=compact&theme=radical)
 
 ### 🎯 Contributions
-- **Total Commits**: ! [Commits](https://badgen.net/github/commits/Ajay6601/)
-- **Pull Requests Merged**: ! [PRs](https://badgen.net/github/prs/Ajay6601/)
-- **Issues Opened**: ! [Issues](https://badgen.net/github/issues/Ajay6601/)
-- **Stars Earned**: ! [Stars](https://badgen.net/github/stars/Ajay6601/)
+- **Total Commits**: ![Commits](https://badgen.net/github/commits/Ajay6601/)
+- **Pull Requests Merged**: ![PRs](https://badgen.net/github/prs/Ajay6601/)
+- **Issues Opened**: ![Issues](https://badgen.net/github/issues/Ajay6601/)
+- **Stars Earned**: ![Stars](https://badgen.net/github/stars/Ajay6601/)
+
 
