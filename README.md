@@ -7,7 +7,7 @@
 
 
 ### 📊 Contribution Graph
-[![Ajay6601's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay6601&theme=react-dark)](https://github.com/Ajay6601)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay6601&theme=react-dark)](https://github.com/Ajay6601)
 
 
 ### 📈 Top Languages
