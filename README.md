@@ -14,4 +14,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay6601&layout=compact&theme=radical)
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Ajay6601&color=blue)
+
 
