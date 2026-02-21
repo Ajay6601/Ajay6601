@@ -130,32 +130,6 @@ Production MLOps platform for streamlined model deployment:
 - 🚀 GitOps-based deployments with version control & automated rollbacks
 - 📊 Optimized data preprocessing reducing runtime by 66%
 
-## 💼 Professional Experience
-
-### 🏢 AI/ML Engineer @ Synchrony Financial
-*Sep 2024 - Present*
-
-**Agentic AI & Multi-Agent Systems:**
-- Developed LangGraph multi-agent orchestration processing 5,000+ monthly cases with 85% extraction accuracy
-- Implemented autonomous workflows with dynamic task coordination and contextual reasoning
-- Led CrewAI proof-of-concept for retail partner integration automating merchant onboarding
-
-**Production RAG & LLM Optimization:**
-- Built production RAG system processing 20K+ unstructured financial documents monthly
-- Eliminated $180K annual costs migrating sentiment analysis from GPT-4 to Llama-3.1
-- Architected document intelligence pipeline achieving 85% extraction accuracy
-
-**ML Infrastructure & MLOps:**
-- Engineered PySpark/Airflow pipelines processing 200GB monthly with 35% latency reduction
-- Reduced infrastructure costs 35% through intelligent autoscaling with Prometheus/Grafana
-- Built CI/CD pipelines with Jenkins/GitHub Actions serving 20+ production models
-
-### 🔬 Machine Learning Engineer @ Nifty Labs
-*Sep 2021 - Aug 2023*
-
-- Processed 10K+ unstructured documents with RoBERTa NLP model improving accuracy 23%
-- Built automated classification pipelines achieving 92% accuracy for production workflows
-- Deployed production models via Azure ML with containerized Docker workflows
 
 ## 🎓 Education
 
