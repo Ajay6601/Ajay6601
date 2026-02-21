@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm an Agentic AI Engineer at **Synchrony Financial** with 3+ years of experience building autonomous multi-agent systems, production RAG pipelines, and scalable ML infrastructure. Currently pursuing my **MS in Information Systems** with a specialization in **Big Data and AI/ML Engineering** at Northeastern University.
+I'm an Agentic AI Engineer with 3+ years of experience building autonomous multi-agent systems, production RAG pipelines, and scalable ML infrastructure. Currently pursuing my **MS in Information Systems** with a specialization in **Big Data and AI/ML Engineering** at Northeastern University.
 
 **What I'm working on:**
 - 🤖 Building LangGraph multi-agent orchestration systems processing 5,000+ monthly cases with 85% accuracy
