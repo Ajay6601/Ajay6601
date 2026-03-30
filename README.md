@@ -13,12 +13,6 @@
 
 I'm an Agentic AI Engineer with 3+ years of experience building autonomous multi-agent systems, production RAG pipelines, and scalable ML infrastructure. Currently pursuing my **MS in Information Systems** with a specialization in **Big Data and AI/ML Engineering** at Northeastern University.
 
-**What I'm working on:**
-- 🤖 Building LangGraph multi-agent orchestration systems processing 5,000+ monthly cases with 85% accuracy
-- 🔄 Developing autonomous workflows with dynamic task coordination and real-time decision-making
-- 📊 Architecting production RAG systems handling 20K+ documents with AWS OpenSearch
-- 💰 Optimizing LLM costs - eliminated $180K annually by migrating from GPT-4 to Llama-3.1
-- 🚀 Leading CrewAI proof-of-concepts for workflow automation
 
 ## 💻 Technical Expertise
 
