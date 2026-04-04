@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm an Agentic AI Engineer with 3+ years of experience building autonomous multi-agent systems, production RAG pipelines, and scalable ML infrastructure. Currently pursuing my **MS in Information Systems** with a specialization in **Big Data and AI/ML Engineering** at Northeastern University.
+AI Agent Engineer with 4 years building autonomous agentic systems at enterprise scale. At ServiceNow, designed and owned a LangGraph multi-agent system that retrieves, reasons, and acts across enterprise data, resolving thousands of support cases monthly without human handoff. Proven across the full agent lifecycle from workflow design and RAG grounding through prompt guardrails, eval loops, and production deployment. The cross-system grounding architecture built at ServiceNow transfers directly to enterprise finance automation including account reconciliation, variance analysis, and month-end close on platforms like SAP and NetSuite
 
 
 ## 💻 Technical Expertise
