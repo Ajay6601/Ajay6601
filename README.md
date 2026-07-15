@@ -19,6 +19,6 @@ cases a month with zero humans in the loop.
 open to ai / agent-eng roles on teams that move fast. startups especially.
 if you're building something where the agents have to be *right*, we should talk.
 
-hit me up &rarr; [linkedin](https://www.linkedin.com/in/ajay-sai-reddy-/) &middot; desireddy.a@northeastern.edu
+hit me up &middot; ajaysai.6601@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ajay6601&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&theme=transparent" height="140" align="right" />
